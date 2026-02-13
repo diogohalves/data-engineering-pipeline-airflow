@@ -32,3 +32,17 @@ Production-style data pipeline built using Python, PostgreSQL and Apache Airflow
 1. Start Airflow with Docker
 2. Run DAG from UI
 3. Pipeline loads data into PostgreSQL
+
+4. ## Author
+
+Senior Data Analyst / Data Engineer with 15+ years working with data and 6+ years building data solutions.
+
+Focused on:
+- Data Engineering
+- ETL pipelines
+- Airflow orchestration
+- SQL & PostgreSQL
+- Cloud-ready data architectures
+
+Open to remote international opportunities.
+
