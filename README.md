@@ -28,3 +28,7 @@ Production-style data pipeline built using Python, PostgreSQL and Apache Airflow
 - Production-like structure
 
 ## Project Structure
+## How to run
+1. Start Airflow with Docker
+2. Run DAG from UI
+3. Pipeline loads data into PostgreSQL
